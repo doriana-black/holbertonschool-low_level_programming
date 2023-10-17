@@ -1,10 +1,13 @@
 #include <stdio.h>
 /**
- * main description -  This is an entry point
+ * main - entry point of the program
+ * Return: returns 0
  */
+
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
+
 
